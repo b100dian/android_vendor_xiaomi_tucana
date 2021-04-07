@@ -1,6 +1,6 @@
 multiCameraEnable=TRUE
-#logInfoMask=0x10098
-#overrideLogLevels=0x1F
+logInfoMask=0x10080
+overrideLogLevels=0x1F
 enableNCSService=TRUE
 disableOIS=FALSE
 disablePDAF=FALSE
@@ -45,4 +45,5 @@ quadraticParamMoonOffset=0.1801
 linerParamMoonOffset=1.3999
 constantParamMoonOffset=-135.14
 #Moon Mode Parms End
+#FDFilterEngine=FD_Standard_ARM
 
